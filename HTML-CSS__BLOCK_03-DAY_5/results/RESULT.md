@@ -24,3 +24,6 @@
 | Brinque com o Box model!	| heavy_check_mark |
 | Altere atributos relacionados as fontes	| heavy_check_mark |
 | Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro	| heavy_check_mark |
+
+![Page Result](/ResultPage.png)
+![Check Result](/ResultProject_Checks.png)
