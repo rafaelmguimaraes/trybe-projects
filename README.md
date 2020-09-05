@@ -16,7 +16,8 @@ Expected end date: **August 10, 2021** (1 year).
 #### HTML & CSS
 - [x] Project - HTML & CSS]
     - [Project Folder - HTML-CSS__BLOCK_03-DAY_5](HTML-CSS__BLOCK_03-DAY_5/)
-    - [Project Result](HTML-CSS__BLOCK_03-DAY_5/RESULT.md) 
+    - [Project Result](/HTML-CSS__BLOCK_03-DAY_5/results/RESULT.md) 
+
 #### JavaScript
 - *[Project - Meme Generator]()*
 - *[Project - Art with Pixels]()*

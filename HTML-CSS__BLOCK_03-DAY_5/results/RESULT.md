@@ -25,5 +25,5 @@
 | Altere atributos relacionados as fontes	| heavy_check_mark |
 | Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro	| heavy_check_mark |
 
-![Page Result](/ResultPage.png)
-![Check Result](/ResultProject_Checks.png)
+![Page Result](/HTML-CSS__BLOCK_03-DAY_5/results/ResultPage.png)
+![Check Result](/HTML-CSS__BLOCK_03-DAY_5/results/ResultProject_Checks.png)
