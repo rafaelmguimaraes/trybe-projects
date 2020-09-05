@@ -19,10 +19,11 @@ Expected end date: **August 10, 2021** (1 year).
     - [Project Result](/B03-D05_HTML-CSS/results/RESULT.md) 
 
 #### JavaScript
-- *[Project - Meme Generator]()*
-- *[Project - Art with Pixels]()*
-- *[Project - To Do List]()*
-- *[Project - Guess the Color]()*
-- *[Project - Mysterious Card]()*
+- [x] *[Project - Playground Functions]()*
+- [ ] *[Project - Meme Generator]()*
+- [ ] *[Project - Art with Pixels]()*
+- [ ] *[Project - To Do List]()*
+- [ ] *[Project - Guess the Color]()*
+- [ ] *[Project - Mysterious Card]()*
 
 ## [...]
