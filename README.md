@@ -14,12 +14,14 @@ Expected end date: **August 10, 2021** (1 year).
 
 ## Introduction - Web Development :hourglass_flowing_sand:
 #### HTML & CSS
-- [x] Project - HTML & CSS]
+- [x] *Project - HTML & CSS*
     - [Project Folder - B03-D05_HTML-CSS](B03-D05_HTML-CSS/)
     - [Project Result](/B03-D05_HTML-CSS/results/RESULT.md) 
 
 #### JavaScript
-- [x] *[Project - Playground Functions]()*
+- [x] *Project - Playground Functions*
+    - [Project Folder - B04-D05_PLAYGROUND-FUNCTIONS](B04-D05_PLAYGROUND-FUNCTIONS/)
+    - [Project Result](/B04-D05_PLAYGROUND-FUNCTIONS/results/RESULT.md) 
 - [ ] *[Project - Meme Generator]()*
 - [ ] *[Project - Art with Pixels]()*
 - [ ] *[Project - To Do List]()*
