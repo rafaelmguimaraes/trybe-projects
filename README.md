@@ -14,7 +14,9 @@ Expected end date: **August 10, 2021** (1 year).
 
 ## Introduction - Web Development :hourglass_flowing_sand:
 #### HTML & CSS
-- *[Project - HTML & CSS]()*
+- [x] Project - HTML & CSS]
+    - [Project Folder - HTML-CSS__BLOCK_03-DAY_5](HTML-CSS__BLOCK_03-DAY_5/)
+    - [Project Result](HTML-CSS__BLOCK_03-DAY_5/RESULT.md) 
 #### JavaScript
 - *[Project - Meme Generator]()*
 - *[Project - Art with Pixels]()*
@@ -22,4 +24,4 @@ Expected end date: **August 10, 2021** (1 year).
 - *[Project - Guess the Color]()*
 - *[Project - Mysterious Card]()*
 
-# [...]
+## [...]
